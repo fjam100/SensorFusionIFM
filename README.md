@@ -1,10 +1,10 @@
 # SensorFusionIFM
 Kalman filtering with technically incorrect covaraiance propagation
 
-Start roscore
-Source the files
-rosrun sensor_fusion hello
-rosbag play ifm_z_data.bag from the correct directory
+Start roscore,
+Source the files,
+rosrun sensor_fusion hello,
+rosbag play ifm_z_data.bag from the correct directory.
 
 Covariance propagation:
 To correct the covariance propagation in the code, the state is defined as follows:
