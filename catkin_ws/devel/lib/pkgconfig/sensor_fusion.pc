@@ -1,0 +1,8 @@
+prefix=/home/atlas/IFM/catkin_ws/devel
+
+Name: sensor_fusion
+Description: Description of sensor_fusion
+Version: 0.0.0
+Cflags: -I/usr/include/eigen3
+Libs: -L/home/atlas/IFM/catkin_ws/devel/lib 
+Requires: 

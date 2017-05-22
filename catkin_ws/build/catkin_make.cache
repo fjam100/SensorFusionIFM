@@ -1,0 +1,2 @@
+sensor_fusion
+-DCATKIN_DEVEL_PREFIX=/home/atlas/IFM/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/atlas/IFM/catkin_ws/install -G Unix Makefiles
